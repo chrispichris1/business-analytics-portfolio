@@ -1,6 +1,3 @@
-# Portfolio
-Portfolio for BA apps.
-
 Hi, I’m Chris 👋
 
 I’m an aspiring Business Analyst with a background in enterprise software sales at Oracle NetSuite. My experience working with hundreds of businesses across manufacturing, retail, and distribution gave me firsthand exposure to how companies operate, where processes break down, and how data can drive better business decisions.
